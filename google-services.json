@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580724570315",
+    "project_id": "btutask3",
+    "storage_bucket": "btutask3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580724570315:android:fc3e4be7d8fd06d572434e",
+        "android_client_info": {
+          "package_name": "com.example.btutask3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580724570315-npk3ebtm7mb9hceeasefptmrr09msqjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzBULyCWXZkcnpitd4vbTKHUJzE3Y-uHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580724570315-npk3ebtm7mb9hceeasefptmrr09msqjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
